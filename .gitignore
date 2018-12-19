@@ -8,3 +8,4 @@ Gemfile.lock
 *.gem
 nbproject
 .DS_Store
+.idea
